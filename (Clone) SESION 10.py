@@ -1,6 +1,5 @@
 # Databricks notebook source
 # https://<databricks-instance>#secrets/createScope
-
 dbutils.secrets.help()
 
 # COMMAND ----------
